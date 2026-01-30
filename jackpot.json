@@ -1,5 +1,30 @@
 [
   {
+    "date": "2026-01-30",
+    "numbers": [
+      14,
+      18,
+      31,
+      35,
+      46
+    ],
+    "stars": [
+      7,
+      11
+    ],
+    "rank1Winners": {
+      "europe": 1,
+      "austria": 0,
+      "belgium": 1,
+      "france": 0,
+      "ireland": 0,
+      "portugal": 0,
+      "spain": 0,
+      "uk": 0,
+      "luxembourg_switzerland": 0
+    }
+  },
+  {
     "date": "2025-12-26",
     "numbers": [
       12,
@@ -238,15 +263,8 @@
       5
     ],
     "rank1Winners": {
-      "europe": 1,
-      "austria": 0,
-      "belgium": 0,
       "france": 0,
-      "ireland": 1,
-      "portugal": 0,
-      "spain": 0,
-      "uk": 0,
-      "luxembourg_switzerland": 0
+      "europe": 1
     }
   },
   {
