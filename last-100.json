@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-02-20",
+    "numbers": [
+      13,
+      24,
+      28,
+      33,
+      35
+    ],
+    "stars": [
+      5,
+      9
+    ],
+    "rank1Winners": {
+      "france": 0,
+      "europe": 0
+    }
+  },
+  {
     "date": "2026-02-17",
     "numbers": [
       1,
@@ -1775,24 +1793,6 @@
     "stars": [
       7,
       11
-    ],
-    "rank1Winners": {
-      "france": 0,
-      "europe": 0
-    }
-  },
-  {
-    "date": "2025-03-07",
-    "numbers": [
-      6,
-      10,
-      27,
-      32,
-      48
-    ],
-    "stars": [
-      3,
-      8
     ],
     "rank1Winners": {
       "france": 0,
